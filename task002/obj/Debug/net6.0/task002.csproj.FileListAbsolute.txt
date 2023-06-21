@@ -1,0 +1,15 @@
+D:\GeekBrains\Домашка\Homework7\task002\bin\Debug\net6.0\task002.exe
+D:\GeekBrains\Домашка\Homework7\task002\bin\Debug\net6.0\task002.deps.json
+D:\GeekBrains\Домашка\Homework7\task002\bin\Debug\net6.0\task002.runtimeconfig.json
+D:\GeekBrains\Домашка\Homework7\task002\bin\Debug\net6.0\task002.dll
+D:\GeekBrains\Домашка\Homework7\task002\bin\Debug\net6.0\task002.pdb
+D:\GeekBrains\Домашка\Homework7\task002\obj\Debug\net6.0\task002.csproj.AssemblyReference.cache
+D:\GeekBrains\Домашка\Homework7\task002\obj\Debug\net6.0\task002.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\Домашка\Homework7\task002\obj\Debug\net6.0\task002.AssemblyInfoInputs.cache
+D:\GeekBrains\Домашка\Homework7\task002\obj\Debug\net6.0\task002.AssemblyInfo.cs
+D:\GeekBrains\Домашка\Homework7\task002\obj\Debug\net6.0\task002.csproj.CoreCompileInputs.cache
+D:\GeekBrains\Домашка\Homework7\task002\obj\Debug\net6.0\task002.dll
+D:\GeekBrains\Домашка\Homework7\task002\obj\Debug\net6.0\refint\task002.dll
+D:\GeekBrains\Домашка\Homework7\task002\obj\Debug\net6.0\task002.pdb
+D:\GeekBrains\Домашка\Homework7\task002\obj\Debug\net6.0\task002.genruntimeconfig.cache
+D:\GeekBrains\Домашка\Homework7\task002\obj\Debug\net6.0\ref\task002.dll
